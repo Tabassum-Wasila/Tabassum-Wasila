@@ -23,5 +23,3 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 
 **Email:** [twahsila@gmail.com]
 **LinkedIn:** [https://www.linkedin.com/in/tabassum-wasila-229619149/]
-
-Thanks for stopping by!
