@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Tabassum Wasila 👋
 
-<!--
-**Tabassum-Wasila/Tabassum-Wasila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer with a strong background in competitive programming and problem solving.
 
-Here are some ideas to get you started:
+Here's a bit more about my specializations:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** PHP, JavaScript, HTML, CSS, Python, C++, Java
+- **Frameworks & Libraries:** Laravel, NodeJS, ReactJS
+- **Databases:** MySQL, MongoDB
+- **Other:** Git, Agile Methodology, Design Thinking
+
+## 🔭 Current Focus
+- Keeping myself up to date on the newest developments in the LAMP stack
+- Advancing my knowledge on the MERN Stack(NodeJS, Express, ReactJS, MongoDB)
+
+## 💬 Let's Connect
+Feel free to reach out if you'd like to collaborate or just chat about tech!
+
+**Email:** [twahsila@gmail.com]
+**LinkedIn:** [https://www.linkedin.com/in/tabassum-wasila-229619149/]
+
+Thanks for stopping by!
