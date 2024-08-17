@@ -7,8 +7,8 @@ Here's a bit more about my specializations:
 ## 🔧 Technologies & Tools
 - **Languages:** PHP, JavaScript, HTML, CSS, Python, C++, Java
 - **Frameworks & Libraries:** Laravel, NodeJS, ReactJS
-- **Databases:** MySQL, MongoDB
-- **Other:** Git, Agile Methodology, Design Thinking
+- **Databases:** MySQL, MongoDB(Basic)
+- **Other:** OOP, Data Structure & Algorithms, Agile Methodology, Design Thinking
 
 ## 🔭 Current Focus
 - Keeping myself up to date on the newest developments in the LAMP stack
