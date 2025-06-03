@@ -84,7 +84,7 @@ Innovative and results-driven Web Developer with 2 years of experience in develo
 - **Codeforces Rating:** Max **1402**
 
 ## GitHub Statistics  
-![Tabassum Wasila's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Tabassum-Wasila&show_icons=true&locale=en&layout=compact&theme=radical)
+![Tabassum Wasila's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Tabassum-Wasila&show_icons=true&locale=en&layout=compact&theme=radical)<br/>
 ![Tabassum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tabassum-Wasila&show_icons=true&theme=radical)  
 
 ## Let's Connect!  
