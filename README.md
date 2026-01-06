@@ -10,8 +10,8 @@ Innovative and results-driven Web Developer with 2 years of experience in develo
 
 ### Technical Skills
 
-- **Languages:** JavaScript, PHP, Python, C++
-- **Frameworks & Libraries:** ReactJS, NextJS, TailwindCSS, MUI, Ant Design, Laravel, Express, LeanKit
+- **Languages:** JavaScript, Typescript, PHP, Python, C++, Java
+- **Frameworks & Libraries:** Laravel, Django, Express, ReactJS, NextJS, Node.js, TailwindCSS, Bootstrap, MUI, Ant Design
 - **Tools & Databases:** Git, MySQL, PostgreSQL, MongoDB, REST APIs
 
 ---
