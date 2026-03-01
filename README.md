@@ -140,4 +140,4 @@ Full Stack Web Developer with 2+ years of experience building and optimizing pro
 📞 WhatsApp: [Chat with me](https://wa.me/60102102408)\
 🌐 Portfolio: [tabassum-wasila.github.io](https://tabassum-wasila.github.io)\
 💼 GitHub: [github.com/Tabassum-Wasila](https://github.com/Tabassum-Wasila)\
-💼 LinkedIn: [linkedin.com/in/tabassum-wasila-229619149](https://www.linkedin.com/in/tabassum-wasila-229619149)
+💼 LinkedIn: [linkedin.com/in/tabassum-wasila](https://www.linkedin.com/in/tabassum-wasila)
