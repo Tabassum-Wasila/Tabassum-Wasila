@@ -4,7 +4,7 @@
 
 ### Summary
 
-Full Stack Web Developer with 2+ years of experience building and optimizing production web applications using Laravel, PHP, JavaScript, and MySQL. Experienced across the full software development lifecycle (SDLC), including improving existing codebases and UI/UX, handling applications in live deployment, testing, deployment, and maintenance. Practical experience in cloud deployment on AWS, Docker-based environments, and CI/CD pipelines. Proven ability to deliver secure and high-performance systems in Agile teams. Passionate about problem-solving, bettering user experiences, and continuously learning in fast-paced environments.
+Full Stack Web Developer with 3+ years of experience building and optimizing production web applications using Laravel, PHP, JavaScript, and MySQL. Experienced across the full software development lifecycle (SDLC), including improving existing codebases and UI/UX, handling applications in live deployment, testing, deployment, and maintenance. Practical experience in cloud deployment on AWS, Docker-based environments, and CI/CD pipelines. Proven ability to deliver secure and high-performance systems in Agile teams. Passionate about problem-solving, bettering user experiences, and continuously learning in fast-paced environments.
 
 ---
 
